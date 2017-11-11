@@ -25,10 +25,10 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About Me: "aboutme"
   Projects:"WFM Team"
-    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    # - Learn markdown: "http://www.markdowntutorial.com/"
-    # - GitHub Pages: "https://pages.github.com/"
-  # Author's home: "http://deanattali.com"
+     - Beautiful Jekyll: "https://www.facebook.com/subrata.mukherjee.1428?ref=bookmarks"
+     - Learn markdown: "https://www.facebook.com/subrata.mukherjee.1428?ref=bookmarks"
+     - GitHub Pages: "https://www.facebook.com/subrata.mukherjee.1428?ref=bookmarks"
+  Author's home: "https://www.facebook.com/subrata.mukherjee.1428?ref=bookmarks"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
