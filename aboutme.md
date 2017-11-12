@@ -22,4 +22,21 @@ I have completed my _Bachelor of Technology_(B.Tech) in Electronics & Communicat
 
 Speech Recognition, Signal Processing, Image Processing, Communication, Machine Learning, Cloud Technologies,  Wireless Communication, Bio medical Applications, Information Theory and Coding.
 
-See my Project Page for further details.
+
+
+### Technical Skills
+
+**General Purpose Programming Language:** C, SQL, C#
+**Scripting and Scientific Computing Software:** Matlab, Scilab, Python, UNIX commands.
+**Hardware Description Language:** Verilog, VHDL, Cadence.
+**EDA Tools &amp; Document Typesetting:** LATEX, MS Office.
+
+
+
+### Advanced Training & Certifications
+
+Architecting and Technical Essentials in Amazon Web Services Platform [August 2017]
+Oracle Database 11g: SQL [November 2016]
+Specialized Training in Embedded Systems, XESP Kolkata [December 2013]
+
+See my [Project](https://submukherjee.github.io/project/) Page for further details.
