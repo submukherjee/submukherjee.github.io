@@ -27,8 +27,11 @@ Speech Recognition, Signal Processing, Image Processing, Communication, Machine 
 ### Technical Skills
 
 **General Purpose Programming Language:** C, SQL, C#
+
 **Scripting and Scientific Computing Software:** Matlab, Scilab, Python, UNIX commands.
+
 **Hardware Description Language:** Verilog, VHDL, Cadence.
+
 **EDA Tools &amp; Document Typesetting:** LATEX, MS Office.
 
 
