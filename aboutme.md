@@ -39,7 +39,9 @@ Speech Recognition, Signal Processing, Image Processing, Communication, Machine 
 ### Advanced Training & Certifications
 
 Architecting and Technical Essentials in Amazon Web Services Platform [August 2017]
+
 Oracle Database 11g: SQL [November 2016]
+
 Specialized Training in Embedded Systems, XESP Kolkata [December 2013]
 
 See my [Project](https://submukherjee.github.io/project/) Page for further details.
