@@ -26,6 +26,7 @@ navbar-links:
   About Me: "aboutme"
   Project:
     - Scilab: "http://scilab.in"
+    - Other Project: project.md
     #- Learn markdown: "http://www.markdowntutorial.com/"
     #- GitHub Pages: "https://pages.github.com/"
  # Author's home: "http://deanattali.com"
@@ -77,9 +78,9 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
   github: true
   reddit: false
