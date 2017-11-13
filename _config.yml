@@ -17,14 +17,14 @@ baseurl: ""
 title: [Subrata Mukherjee](https://submukherjee.github.io)
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: 
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-navbar-links:
-  About Me: "index#aboutme"
-  Education: "index#education"
+#navbar-links:
+ # About Me: "index#aboutme"
+ # Education: "index#education"
   # Project:
   #  - Scilab: "http://scilab.in"
   #  - Other Project: "project"
