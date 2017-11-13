@@ -5,7 +5,7 @@ use-site-title: false
 ---
 <center>
 <figure>
-  <img src="img/2.jpg"  width="200" height="300">
+  <img src="img/2.jpg"  height="200px">
 </figure>
 </center>
 
