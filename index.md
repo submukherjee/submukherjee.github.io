@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Subrata Mukherjee
+title: 
 use-site-title: false
 ---
 <center>
