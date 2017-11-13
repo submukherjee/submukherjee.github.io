@@ -9,8 +9,7 @@ use-site-title: false
 </figure>
 </center>
 
-I am currently working as a _Solution Integrator_ in the multinational networking and telecommunications company [**Ericsson**](https://www.ericsson.com/en). I work for the **_Work Force Management (WFM)_** team. The **WFM** team advice large service organizations with the optimal ways of scheduling and managing their field service work force. For general operations, we use the Click Service Optimization Suite.  My roles include developing this **Click Software** and assisting clients to effectively handling scheduling and communication assignments to their field force. I am also involved in developing new customized routines and policies for **Click Mobile Touch** customization using HTML5, C# and JQuery that enable dispatchers and technicians to communicate feedbacks in real time.  
-
+I am currently working as a _Solution Integrator_ in the multinational networking and telecommunications company [**Ericsson**](https://www.ericsson.com/en). I work for the **_Work Force Management (WFM)_** team, which advices large service organizations with the optimal ways of scheduling and managing their field service work force. For general operations, we usually use the Click Service Optimization Suite. However, we are also involved in the development of new customized routines and policies for **Click Mobile Touch** customization using HTML5, C# and JQuery that enable dispatchers and technicians to communicate feedbacks in real time. My roles include developing and executing optimal algorithms for assisting clients in efficiently handling scheduling and communication assignments to their field force.   
 
 <a name="Education">Education</a>
 ----------
