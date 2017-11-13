@@ -212,7 +212,7 @@ prose:
           placeholder: "yyyy-mm-dd"
           alterable: true
       - name: "image"
-        field:
+        field: 
           element: "text"
           label: "Image"
           help: "Add a thumbnail image to your post."
