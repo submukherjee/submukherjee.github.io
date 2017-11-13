@@ -23,9 +23,9 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
+ Education: "index#Education"
  Training: "index#Training"
  Skills: "index#Skills"
- Education: "index#Education"
   # Project:
   #  - Scilab: "http://scilab.in"
   #  - Other Project: "project"
@@ -80,13 +80,13 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: false
+  facebook: true
   email: true
   twitter: false
   google-plus: false
   github: true
   reddit: false
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   snapchat: false
