@@ -13,8 +13,9 @@ use-site-title: false
 </figure>
   </td>
   <td>
-    <tr>t1</tr>
-    <tr>t1</tr>
+td1
+    <br>
+    td2
   </td>
 </table>
 
