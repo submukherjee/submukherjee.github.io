@@ -13,9 +13,37 @@ I am currently working as Solution Integrator in [**Ericsson**](https://www.eric
 
 
 <a name="Education">Education</a>
+----------
 
 I have completed my _Bachelor of Technology_(B.Tech) in Electronics & Communication Engineering (2011-2015) from [National Institute of Technology,Durgapur](http://www.nitdgp.ac.in/) with an undergraduate CGPA of **8.46/10**.
 
 **GRE SCORE:** 319(Verbal: 153, Quantitative: 166); Test Date: 14/08/2017
 
 **TOEFL SCORE:** 107(Reading: 26, Listening: 28, Speaking: 23, Writing: 30); Test Date: 14/10/2017
+
+
+<a name="Interests">Research Interests</a>
+----------
+
+Signal Processing, Speech and Image Analysis, Communication, Machine Learning, Cloud Technologies,  Wireless Communication, Bio-medical Applications.
+
+
+<a name="Skills">Technical Skills</a>
+----------
+
+**General Purpose Programming Language:** C, SQL, C#
+
+**Scripting and Scientific Computing Software:** Matlab, Scilab, Python, UNIX commands.
+
+**Hardware Description Language:** Verilog, VHDL, Cadence.
+
+**EDA Tools &amp; Document Typesetting:** LATEX, MS Office.
+
+<a name="Training">Advanced Training & Certifications</a>
+----------
+
+Architecting and Technical Essentials in Amazon Web Services Platform [August 2017]
+
+Oracle Database 11g: SQL [November 2016]
+
+Specialized Training in Embedded Systems, XESP Kolkata [December 2013]
