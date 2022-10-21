@@ -12,6 +12,6 @@ Journal Publications
 
 3. **Mukherjee, Subrata**, Xuhui Huang, Lalita Udpa, and Yiming Deng. [A Kriging-Based Magnetic Flux Leakage Method for Fast Defect Detection in Massive Pipelines](https://asmedigitalcollection.asme.org/nondestructive/article/5/1/011002/1109353/A-Kriging-Based-Magnetic-Flux-Leakage-Method-for) Journal of Nondestructive Evaluation, Diagnostics and Prognostics of Engineering Systems 5, no. 1 (2022)
 
-4. 
+4. Lu, Wei, Mengjie Zeng, Ling Wang, Hui Luo, Subrata Mukherjee, Xuhui Huang, and Yiming Deng. [Navigation algorithm based on the boundary line of tillage soil combined with guided filtering and improved anti-noise morphology] (https://www.mdpi.com/1424-8220/19/18/3918)
 
 
