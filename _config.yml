@@ -27,7 +27,7 @@ navbar-links:
  Education: "index#Education"
  Training: "index#Training"
  Skills: "index#Skills"
- Research: "https://github.com/submukherjee/submukherjee.github.io/blob/master/Research/"
+ Research: "https://submukherjee.github.io/Research/"
   # Project:
   #  - Scilab: "http://scilab.in"
   #  - Other Project: "project"
