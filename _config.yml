@@ -23,6 +23,7 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
+ About Me: "about me"
  Education: "index#Education"
  Training: "index#Training"
  Skills: "index#Skills"
@@ -35,7 +36,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-#avatar: "/img/2.jpg"
+avatar: "/img/2.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -72,7 +73,7 @@ author:
   instagram: yourname # eg. daattali
   youtube: yourlink   # eg. user/daattali or channel/daattali
   spotify: yourname   # eg. daattali
-  telephone: yourphone   # eg. +14159998888
+  telephone: +16506806415   # eg. +14159998888
   steam: yourname     # eg. daattali
   twitch: yourname    # eg. daattali
   yelp: yourname      # eg. daattali
