@@ -5,9 +5,10 @@ use-site-title: false
 ---
 <center>
   <figure>
-  <img src="img/2.jpg"  height="200px">
+  <img src="img/2.jpg"  width="190" height="260">
 </figure>
 </center>
+<br/>
 I am currently working as a _Solution Integrator_ in the multinational networking and telecommunications company [**Ericsson**](https://www.ericsson.com/en). I am a part of the **_Work Force Management (WFM)_** team, which advices large service organizations with the optimal ways of scheduling and managing their field service work force. For general operations, we usually use the Click Service Optimization Suite. We are also involved in the development of novel routines for mobile customization using HTML5, C# and JQuery that enable dispatchers and technicians to communicate feedbacks in real time. My roles include developing and executing optimal algorithms and policies in order to assist clients in efficiently handling scheduling and communication assignments to their field force.   
 
 <a name="Education">Education</a>
