@@ -26,7 +26,7 @@ navbar-links:
  About Me: "about me"
  Education: "index#Education"
  Training: "index#Training"
- Skills: "index#Skills"
+ #Skills: "index#Skills"
   # Project:
   #  - Scilab: "http://scilab.in"
   #  - Other Project: "project"
@@ -98,6 +98,7 @@ footer-links-active:
   steam: false
   twitch: false
   yelp: false
+  googlescholar: true
 
 # Select which share links to show in posts
 share-links-active:
