@@ -48,7 +48,7 @@ Signal Processing, Speech and Image Analysis, Communication, Machine Learning, C
 <a href="http://www.xesp.in//training-details/Embedded-Systems/57/57/">Specialized Training in Embedded Systems, XESP Kolkata</a> [December 2013]
 <br/>
 <br/>
-See my <a href='https://gmukherjee.github.io/Research/'><font face="verdana" color="teal">Research</font></a> page for further details.
+See my <a href='https://submukherjee.github.io/Research/'><font face="verdana" color="teal">Research</font></a> page for further details.
 <br/>
 <br/>
 
