@@ -16,7 +16,7 @@ use-site-title: false
 
 **Peer Reviewed Conference Papers**
 
-1. Mukherjee, Subrata, Xuhui Huang, Vivek T. Rathod, Lalita Udpa, and Yiming Deng. [Defects tracking via NDE based transfer learning] (https://ieeexplore.ieee.org/abstract/document/9187034)
+1. Mukherjee, Subrata, Xuhui Huang, Vivek T. Rathod, Lalita Udpa, and Yiming Deng. [ABC](https://ieeexplore.ieee.org/abstract/document/9187034)
 2. 
 
 
