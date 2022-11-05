@@ -9,7 +9,7 @@ During my summer internship at Analog Garage, Boston I worked on the Advanced Ba
 
 [Michigan State University](https://msu.edu/) (2018-2023 (May))
 
-During my PhD, I am working as Research Associate on several projects being funded by [EPRI](https://www.epri.com/), [GTI](https://www.gti.energy/), various **CAAP* programs
+During my PhD, I am working as Research Associate on several projects being funded by [EPRI](https://www.epri.com/), [GTI](https://www.gti.energy/), various **CAAP** programs
 
 [**Ericsson**](https://www.ericsson.com/en) (2015-2018 (June))
 
