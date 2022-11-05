@@ -23,6 +23,7 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
+ Experience: "https://submukherjee.github.io/Experience/"
  #About Me: "about me"
  #Education: "index#Education"
  #Training: "index#Training"
