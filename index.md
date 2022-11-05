@@ -12,6 +12,7 @@ use-site-title: false
 I am currently a fifth year Graduate student in the department of [Electrical and Computer Enginerring](https://ece.msu.edu/) at [**Michigan State University**](https://msu.edu/). I am advised by Professor [Yiming Deng](https://www.egr.msu.edu/deng/) & Professor [Lalita Udpa](https://www.egr.msu.edu/people/profile/udpal) at Non Destructive Evaluation Laboratory, [NDEL](https://www.egr.msu.edu/ndel/). My dissertation is on developing _improved automated NDE methods using Machine Learning perspectives_. On the algorithmic side, I develop novel statistical leaerning based signal and image processing algorithms, ML algorithms and AI enabled NDE algorithms  for better defect detection and identification. I am also interested in data fusion and in developing different sub sampling and sparsifying algorithms for fast scanning systems. On the hardware side I focus on design and development of different physics based sensors and systems for monitoring and evaluating structural integrity of parts and components. The links to published papers and preprints can be accessed from my <a href='https://submukherjee.github.io/Research/'><font face="verdana" color="teal">Research</font></a> page.   
 
 <a name="Education">Education</a>
+
 ----------
  * Phd in Electrical & Computer Engineering (2018-2023), [Michigan State University](https://msu.edu/): CGPA **3.824/4**. 
 
@@ -47,12 +48,13 @@ Below are a list of topics that I'm currently working.
    
 
 <a name="Interests">Research Interests</a>
+
 ----------
 
 Non-destructive Evaluation, Data Analytics, Machine learning and Statistical methods in NDE, Signal and Image processing,  Structural Health Monitoring, Finte Element Method, Compressed Sensing, Deep learning
 
 
 
-**<b>Contact:</b>**
+**Contact:**
 428 S Shaw Ln, East Lansing, Michigan State University, MI 48824.
 
