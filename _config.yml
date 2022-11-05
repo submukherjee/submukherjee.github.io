@@ -28,7 +28,7 @@ navbar-links:
  #About Me: "about me"
  Education: "index#Education"
  #Training: "index#Training"
- #Research Interest: "index#Reserach Interest"
+ Research Interest: "index#Reserach Interest"
   # Project:
   #  - Scilab: "http://scilab.in"
   #  - Other Project: "project"
@@ -85,7 +85,7 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
   twitter: false
   google-plus: false
