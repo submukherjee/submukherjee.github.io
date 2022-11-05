@@ -23,18 +23,18 @@ Below are a list of topics that I'm currently working.
 **Algorithms**
 
 * Statistical Methods in NDE
- * Spatially Adaptive Denoising based model
- * kriging based sub-sampling schemes for fast detection
- * Transfer learning aided Mixture Regression & Wavelet based denoising
+  * Spatially Adaptive Denoising based model
+  * kriging based sub-sampling schemes for fast detection
+  * Transfer learning aided Mixture Regression & Wavelet based denoising
 
 * AI enabled NDE systems
- * Deep Learning in Laser Profilometry
- * Material Characterization in NDE using ML and registration
- * Different Damage Classification in Composites
+  * Deep Learning in Laser Profilometry
+  * Material Characterization in NDE using ML and registration
+  * Different Damage Classification in Composites
 
 * Miscllaneous
- * Data fusion from different sensing technqiues
- * Compressed sensing framework for limited data in Thermoacoustic tomography setup
+  * Data fusion from different sensing technqiues
+  * Compressed sensing framework for limited data in Thermoacoustic tomography setup
 
 **Hardware setup**
 
