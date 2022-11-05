@@ -23,12 +23,12 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
+ Research: "https://submukherjee.github.io/Research/"
  Experience: "https://submukherjee.github.io/Experience/"
  #About Me: "about me"
- #Education: "index#Education"
+ Education: "index#Education"
  #Training: "index#Training"
- #Skills: "index#Skills"
- Research: "https://submukherjee.github.io/Research/"
+ #Research Interest: "index#Reserach Interest"
   # Project:
   #  - Scilab: "http://scilab.in"
   #  - Other Project: "project"
@@ -79,7 +79,8 @@ author:
   steam: yourname     # eg. daattali
   twitch: yourname    # eg. daattali
   yelp: yourname      # eg. daattali
-  googlescholar: "https://scholar.google.com/citations?user=PDSHPr0AAAAJ&hl=en&oi=ao"
+  googlescholar: https://scholar.google.com/citations?user=PDSHPr0AAAAJ&hl=en&oi=ao
+  orcid: ""
 
 # Select which links to show in the footer
 footer-links-active:
