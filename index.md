@@ -47,11 +47,11 @@ Below are a list of topics that I'm currently working.
 * Finite Element Modelling
    
 
-<a name="Interest">Research Interests</a>
+<a name="Research Interest">Research Interests</a>
 
 ----------
 
-Non-destructive Evaluation, Data Analytics, Machine learning and Statistical methods in NDE, Signal and Image processing,  Structural Health Monitoring, Finte Element Method, Compressed Sensing, Deep learning
+Non-destructive Evaluation, Data Analytics, Machine learning and Statistical methods in NDE, Signal and Image processing, Data Fusion, Computer Vision, Deep Learning,  Structural Health Monitoring, Finte Element Method, Compressed Sensing.
 
 
 
