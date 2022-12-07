@@ -35,7 +35,7 @@ Below are a list of topics that I'm currently working.
   * Material Characterization in NDE using ML and registration
   * Different Damage Classification in Composites
 
-* Miscllaneous
+* Miscellaneous
   * Data fusion from different sensing technqiues
   * Compressed sensing & Time Reversal framework for limited data in Thermoacoustic tomography setup
 
