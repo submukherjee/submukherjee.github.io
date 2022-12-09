@@ -37,7 +37,7 @@ Below are a list of topics that I'm currently working.
 
 * Miscellaneous
   * Data fusion from different sensing technqiues
-  * Compressed sensing & Time Reversal framework for limited data in Thermoacoustic tomography setup
+  * Compressed sensing & Time Reversal framework for limited data in Thermoacoustic tomography setup based on biomedical and NDe data
 
 **Hardware setup**
 
