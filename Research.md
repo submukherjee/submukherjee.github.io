@@ -41,7 +41,7 @@ use-site-title: false
 
 2. Improved Non-destructive Evaluation based defect detection using pixel level data fusion
 
-3. Enhanced Pulsed thermoacoustic imaging aided with compressed sensing 
+3. Enhanced Pulsed thermoacoustic imaging aided with compressed sensing based on biomedical & NDE inspection
 
 4. Machine Learning Model for Microstrip Transmission line based Wideband RF Material Characterization
 
