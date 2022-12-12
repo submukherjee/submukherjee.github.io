@@ -57,4 +57,5 @@ Non-destructive Evaluation, Data Analytics, Machine learning and Statistical met
 
 **Contact:**
 428 S Shaw Ln, East Lansing, Michigan State University, MI 48824.
+Email: mukher52@msu.edu
 
