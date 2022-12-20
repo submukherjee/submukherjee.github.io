@@ -14,46 +14,37 @@ I am currently a fifth year Graduate student in the department of [Electrical an
 <a name="Education">Education</a>
 
 ----------
- * Phd in Electrical & Computer Engineering (2018-2023), [Michigan State University](https://msu.edu/): CGPA **3.824/4**. 
+ * Phd in Electrical & Computer Engineering (2018-2023), [Michigan State University](https://msu.edu/): CGPA **3.83/4**. 
 
  * B.Tech in Electronics & Communication Engineering (2011-2015), [National Institute of Technology, Durgapur](http://www.nitdgp.ac.in/): CGPA **8.46/10**.
  
 
 
-Below are a list of topics that I'm currently working.
+Below is a list of topics that I am currently working.
 
-----------
-**Algorithms**
-
-* Statistical Methods in NDE
+**Methodological \& Algorithmic Development**
+* Robust Data Analysis for NDE
   * Spatially Adaptive Denoising based model
   * kriging based sub-sampling schemes for fast detection
   * Transfer learning aided Mixture Regression & Wavelet based denoising
-
 * AI enabled NDE systems
   * Deep Learning in Laser Profilometry
   * Material Characterization in NDE using ML and registration
   * Different Damage Classification in Composites
-
 * Miscellaneous
   * Data fusion from different sensing technqiues
-  * Compressed sensing & Time Reversal framework for limited data in Thermoacoustic tomography setup based on biomedical and NDe data
+  * Compressed sensing & Time Reversal framework for limited data in Thermoacoustic tomography setup based on biomedical and NDE data
 
 **Hardware setup**
-
 * Magnetic flux leakage (MFL) sensor
 * Laser Profilometry
 * Capacitive & Eddy Current sensor
 * Finite Element Modelling
-   
-
-<a name="Research Interest">Research Interests</a>
 
 ----------
-
+   
+<a name="Research Interest">Research Interests</a>
 Non-destructive Evaluation, Data Analytics, Machine learning and Statistical methods in NDE, Signal and Image processing, Data Fusion, Computer Vision, Deep Learning,  Structural Health Monitoring, Finte Element Method, Compressed Sensing, Computational Imaging.
-
-
 
 **Contact:**
 428 S Shaw Ln, East Lansing, Michigan State University, MI 48824.
