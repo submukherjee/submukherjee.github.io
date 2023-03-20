@@ -20,19 +20,23 @@ use-site-title: false
 
 2. **Mukherjee, Subrata**, Xuhui Huang, Lalita Udpa, and Yiming Deng. [NDE Based Cost-Effective Detection of Obtrusive and Coincident Defects in Pipelines Under Uncertainties.](https://ieeexplore.ieee.org/abstract/document/8756365)
 
-3. **Mukherjee, Subrata**, Xuhui Huang, Lalita Udpa, and Yiming Deng. [A Kriging Based Fast and Efficient Method for Defect Detection in Massive Pipelines Using Magnetic Flux Leakages](https://asmedigitalcollection.asme.org/IMECE/proceedings/IMECE2020/84669/V014T14A010/1099563)
+3. **Mukherjee, Subrata**, Deepak Kumar, Lalita Udpa, and Yiming Deng. Registration based Curve fitting Model for Microstrip Transmission Line based Wideband RF Material Characterization. *accpeted in ICPHM 2023*
 
-4. **Mukherjee, Subrata**, Xuhui Huang, Lalita Udpa, and Yiming Deng. [Dynamic tracking of defects in pipelines via NDE based transfer learning](https://iastatedigitalpress.com/qnde/article/id/8667/print/)
+4. **Mukherjee, Subrata**, Lalita Udpa, and Yiming Deng. Enhanced Defect Detection in NDE Using Pixel Level Data Fusion. *accpeted in Applied Computational Electromagnetics Society (ACES) 2023*
 
-5. Rathod, Vivek T., **Subrata Mukherjee**, and Yiming Deng. [Machine learning enabled damage classification in composite laminated beams using mode conversion quantification](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11380/113800B/Machine-learning-enabled-damage-classification-in-composite-laminated-beams-using/10.1117/12.2559677.full?SSO=1)
+5. **Mukherjee, Subrata**, Xuhui Huang, Lalita Udpa, and Yiming Deng. [A Kriging Based Fast and Efficient Method for Defect Detection in Massive Pipelines Using Magnetic Flux Leakages](https://asmedigitalcollection.asme.org/IMECE/proceedings/IMECE2020/84669/V014T14A010/1099563)
 
-6. Rathod, Vivek T., **Subrata Mukherjee**, Lalita Udpa, and Yiming Deng. [Extracting Mode Converted Guided Wave Response due to Delamination using Embedded Thin Film Sensors.](https://ieeexplore.ieee.org/abstract/document/9187041)
+6. **Mukherjee, Subrata**, Xuhui Huang, Lalita Udpa, and Yiming Deng. [Dynamic tracking of defects in pipelines via NDE based transfer learning](https://iastatedigitalpress.com/qnde/article/id/8667/print/)
 
-7. Palanisamy, Rajendra Prasath, **Subrata Mukherjee**, Mahmood Haq, and Yiming Deng. [Rapid Material Characterization using Smart Skin with functional Data Analysis.](https://papers.phmsociety.org/index.php/phme/article/view/2884)
+7. Rathod, Vivek T., **Subrata Mukherjee**, and Yiming Deng. [Machine learning enabled damage classification in composite laminated beams using mode conversion quantification](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11380/113800B/Machine-learning-enabled-damage-classification-in-composite-laminated-beams-using/10.1117/12.2559677.full?SSO=1)
 
-8. Palanisamy, Rajendra Prasath, Portia Banerjee, **Subrata Mukherjee**, Mahmood Haq, and Yiming Deng. [Fatigue damage prognosis in adhesive bonded composite lap-joints using guided waves.](https://ieeexplore.ieee.org/abstract/document/9187031)
+8. Rathod, Vivek T., **Subrata Mukherjee**, Lalita Udpa, and Yiming Deng. [Extracting Mode Converted Guided Wave Response due to Delamination using Embedded Thin Film Sensors.](https://ieeexplore.ieee.org/abstract/document/9187041)
 
-9. Li, Zi, Xuhui Huang, Obaid Elshafiey, **Subrata Mukherjee**, and Yiming Deng. [FEM of Magnetic Flux Leakage Signal for Uncertainty Estimation in Crack Depth Classification using Bayesian Convolutional Neural Network and Deep Ensemble.](https://ieeexplore.ieee.org/abstract/document/9528403)
+9. Palanisamy, Rajendra Prasath, **Subrata Mukherjee**, Mahmood Haq, and Yiming Deng. [Rapid Material Characterization using Smart Skin with functional Data Analysis.](https://papers.phmsociety.org/index.php/phme/article/view/2884)
+
+10. Palanisamy, Rajendra Prasath, Portia Banerjee, **Subrata Mukherjee**, Mahmood Haq, and Yiming Deng. [Fatigue damage prognosis in adhesive bonded composite lap-joints using guided waves.](https://ieeexplore.ieee.org/abstract/document/9187031)
+
+11. Li, Zi, Xuhui Huang, Obaid Elshafiey, **Subrata Mukherjee**, and Yiming Deng. [FEM of Magnetic Flux Leakage Signal for Uncertainty Estimation in Crack Depth Classification using Bayesian Convolutional Neural Network and Deep Ensemble.](https://ieeexplore.ieee.org/abstract/document/9528403)
 
 
 **_Under Prepeartion_**
