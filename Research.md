@@ -14,6 +14,12 @@ use-site-title: false
 
 4. Lu, Wei, Mengjie Zeng, Ling Wang, Hui Luo, **Subrata Mukherjee**, Xuhui Huang, and Yiming Deng [Navigation algorithm based on the boundary line of tillage soil combined with guided filtering and improved anti-noise morphology](https://www.mdpi.com/1424-8220/19/18/3918) Sensors 19, no. 18 (2019): 3918.
 
+**_Under Submission_**
+
+1. Dynamic Defect Detection in Fast, Robust NDE Methods by Transfer Learning Based Optimally Binned Hypothesis Test.
+
+2. Improved Non-destructive Evaluation based defect detection using pixel level data fusion 
+
 **Peer Reviewed Conference Papers**
 
 1. **Mukherjee, Subrata**, Xuhui Huang, Vivek T. Rathod, Lalita Udpa, and Yiming Deng. [Defect Tracking Via NDE Based Transfer Learning](https://ieeexplore.ieee.org/abstract/document/9187034)
@@ -22,7 +28,7 @@ use-site-title: false
 
 3. **Mukherjee, Subrata**, Deepak Kumar, Lalita Udpa, and Yiming Deng. Registration based Curve fitting Model for Microstrip Transmission Line based Wideband RF Material Characterization. *accpeted in ICPHM 2023*
 
-4. **Mukherjee, Subrata**, Lalita Udpa, and Yiming Deng. Enhanced Defect Detection in NDE Using Pixel Level Data Fusion. *accpeted in Applied Computational Electromagnetics Society (ACES) 2023*
+4. **Mukherjee, Subrata**, Lalita Udpa, and Yiming Deng. [Enhanced Defect Detection in NDE Using Pixel Level Data Fusion.](https://ieeexplore.ieee.org/document/10114697) 
 
 5. **Mukherjee, Subrata**, Xuhui Huang, Lalita Udpa, and Yiming Deng. [A Kriging Based Fast and Efficient Method for Defect Detection in Massive Pipelines Using Magnetic Flux Leakages](https://asmedigitalcollection.asme.org/IMECE/proceedings/IMECE2020/84669/V014T14A010/1099563)
 
@@ -43,10 +49,8 @@ use-site-title: false
 
 1. Mixture Regression based Transfer Learning framework for defect detection under noisy regimes in NDE
 
-2. Improved Non-destructive Evaluation based defect detection using pixel level data fusion
+2. Enhanced Pulsed thermoacoustic imaging aided with compressed sensing based on biomedical & NDE inspection
 
-3. Enhanced Pulsed thermoacoustic imaging aided with compressed sensing based on biomedical & NDE inspection
-
-4. Machine Learning Model for Microstrip Transmission line based Wideband RF Material Characterization
+3. Machine Learning Model for Microstrip Transmission line based Wideband RF Material Characterization
 
 
