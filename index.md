@@ -13,10 +13,10 @@ I am currently a Postdoctoral fellow in the [Division of Imaging, Diagnostics, a
 
 ----------
 <a name="Education">Education</a>
- * Phd in Electrical & Computer Engineering (2018-2023), [Michigan State University](https://msu.edu/): CGPA **3.83/4**. 
+ * PhD in Electrical & Computer Engineering (2018-2023), [Michigan State University](https://msu.edu/): CGPA **3.83/4**. 
  * B.Tech in Electronics & Communication Engineering (2011-2015), [National Institute of Technology, Durgapur](http://www.nitdgp.ac.in/): CGPA **8.46/10**.
  
-Below is a list of topics that I am currently working.
+Below is a list of my working topics.
 
 **Methodological & Algorithmic Development**
 * Medical Imaging Analysis
