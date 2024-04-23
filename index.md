@@ -9,7 +9,7 @@ use-site-title: false
 </figure>
 </center>
 <br/>
-I am currently a fifth year Graduate student in the department of [Electrical and Computer Engineering](https://ece.msu.edu/) at [**Michigan State University**](https://msu.edu/). I am advised by Professor [Yiming Deng](https://www.egr.msu.edu/deng/) & Professor [Lalita Udpa](https://www.egr.msu.edu/people/profile/udpal) at Non Destructive Evaluation Laboratory, [NDEL](https://www.egr.msu.edu/ndel/). My dissertation is on developing _Machine Learning based improved automated NDE methods for defect diagnostics_. On the algorithmic side, I develop novel statistical leaerning based signal and image processing algorithms, ML algorithms and AI enabled NDE algorithms  for better defect detection and identification. I am also interested in data fusion and in developing different sub sampling and sparsifying algorithms for fast scanning systems. On the hardware side, I focus on design and development of different physics based sensors and systems for monitoring and evaluating structural integrity of parts and components. The links to published papers and preprints can be accessed from my <a href='https://submukherjee.github.io/Research/'><font face="verdana" color="teal">Research</font></a> page. You can find my [Resume](https://drive.google.com/file/d/1m8ziY8zjwzffIgmvwjeNoa7SHM95LKVH/view?usp=sharing) here. 
+I am currently a Postdoctoral fellow in the [Division of Imaging, Diagnostics, and Software Reliability](https://www.fda.gov/about-fda/cdrh-offices/division-imaging-diagnostics-and-software-reliability) at US Food and Drug Administration. Before joining FDA, I graduated from Michigan State University with a PhD. degree in Electrical and Computer Engineering. I was advised by Professor Yiming Deng & Professor Lalita Udpa at Non Destructive Evaluation Laboratory, [NDEL](https://www.egr.msu.edu/ndel/). On the algorithmic side, I develop novel statistical learning based signal and image processing algorithms, Artificial Intelligence (AI)- Machine Learning (ML) algorithms for medical and NDE imaging. I am also interested in data fusion, volumetric registration, survival analysis, joint modelling and in developing different sub sampling and sparsifying algorithms. On the hardware side, I focus on design and development of different physics based sensors and systems for monitoring and evaluating structural integrity of parts and components. The indexing of all my published paperscan be accessed from my <a href='https://submukherjee.github.io/Research/'><font face="verdana" color="teal">Research</font></a> page. You can find my [Resume](https://drive.google.com/file/d/1m8ziY8zjwzffIgmvwjeNoa7SHM95LKVH/view?usp=sharing) here. 
 
 ----------
 <a name="Education">Education</a>
@@ -19,6 +19,10 @@ I am currently a fifth year Graduate student in the department of [Electrical an
 Below is a list of topics that I am currently working.
 
 **Methodological & Algorithmic Development**
+* Medical Imaging Analysis
+  * Volumetric Image registration and correspondence in longitudinal medical data
+  * AI based survival modelling
+  * Deep Learning assisted lesion and organ segmentations 
 * Robust Data Analysis for NDE
   * Spatially Adaptive Denoising based model
   * kriging based sub-sampling schemes for fast detection
@@ -26,10 +30,10 @@ Below is a list of topics that I am currently working.
 * AI enabled NDE systems
   * Deep Learning in Laser Profilometry
   * Material Characterization in NDE using ML and registration
-  * Different Damage Classification in Composites
+  * Different Damage Classifications
 * Miscellaneous
   * Data fusion from different sensing technqiues
-  * Compressed sensing & Time Reversal framework for limited data in Thermoacoustic tomography setup based on biomedical and NDE data
+  * Compressed sensing & Time Reversal framework for limited data in Thermoacoustic tomography
 
 **Hardware setup & Sensor Development**
 * Magnetic flux leakage (MFL) sensor
@@ -40,9 +44,9 @@ Below is a list of topics that I am currently working.
 ----------
 <a name="Research Interest">Research Interests</a>
 
-Non-destructive Evaluation, Data Analytics, Machine learning and Statistical methods in NDE, Signal and Image processing, Data Fusion, Computer Vision, Deep Learning,  Structural Health Monitoring, Finte Element Method, Compressed Sensing, Computational Imaging.
+Algorithm Development, Non-destructive Evaluation, Medical Imaging, Data Analysis, Statistical Inference, Signal and Image processing, Artificial Intelligence, Machine Learning, Computer Vision
 
 **Contact:**
-428 S Shaw Ln, East Lansing, Michigan State University, MI 48824.
-Email: mukher52@msu.edu
+10903 New Hampshire Ave, Silver Spring, MD 20993.
+Email: subrata.mukherjee@fda.hhs.gov, mukher52@msu.edu
 
