@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://submukherjee.github.io"
+url: "https://submukherjee.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -17,18 +17,17 @@ baseurl: ""
 title: Subrata Mukherjee
 
 # Short description of your site
-description: 
+description: "Researcher in intelligent sensing, digital twins, and data-driven engineering systems."
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
- Research: "https://submukherjee.github.io/Research/"
- Experience: "https://submukherjee.github.io/Experience/"
- #About Me: "about me"
- Education: "index#Education"
- #Training: "index#Training"
- Research Interest: "index#Research Interest"
+ Research: "Research"
+ Projects: "index#featured-work"
+ Experience: "Experience"
+ Leadership: "Leadership"
+ Contact: "index#contact"
   # Project:
   #  - Scilab: "http://scilab.in"
   #  - Other Project: "project"
@@ -62,23 +61,23 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Subrata Mukherjee
-  email: "subrata.mukherjee@fda.hhs.gov"
+  email: "mukherjees2@ornl.gov"
   facebook: subrata.mukherjee.1428  # eg. daattali
   github: submukherjee    # eg. daattali
-  twitter: yourname   # eg. daattali
+  twitter: ""
   reddit: yourname    # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
+  google-plus: ""
   linkedin: subrata-mukherjee-440b1679  # eg. daattali
-  xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
-  snapchat: yourname  # eg. daattali
-  instagram: yourname # eg. daattali
-  youtube: yourlink   # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
+  xing: ""
+  stackoverflow: ""
+  snapchat: ""
+  instagram: ""
+  youtube: ""
+  spotify: ""
   telephone: +16506806415   # eg. +14159998888
-  steam: yourname     # eg. daattali
-  twitch: yourname    # eg. daattali
-  yelp: yourname      # eg. daattali
+  steam: ""
+  twitch: ""
+  yelp: ""
   googlescholar: https://scholar.google.com/citations?user=PDSHPr0AAAAJ&hl=en&oi=ao
   orcid: ""
 

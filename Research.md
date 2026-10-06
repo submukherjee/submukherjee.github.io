@@ -1,59 +1,49 @@
 ---
 layout: page
-title: 
-use-site-title: false
+title: Research and Publications
+subtitle: Published work, conference publications, and current manuscripts
+share-img: https://submukherjee.github.io/img/og.png
 ---
 
-**Journal Publications**
+All published items below link to a publisher page where available. Use my [Google Scholar profile](https://scholar.google.com/citations?user=PDSHPr0AAAAJ&amp;hl=en) for citation data and the complete searchable record.
 
-1.  **Mukherjee, S.**, D. Kumar, L. Udpa, and Y. Deng. [Robust defect detection under uncertainties using spatially adaptive capacitive imaging.](https://aip.scitation.org/doi/full/10.1063/5.0088320) Journal of Applied Physics (2022)
+## Journal articles
 
-2. **S. Mukherjee.**, L.Udpa, and Y. Deng. [Dynamic Defect Detection in Fast, Robust NDE Methods by Transfer Learning Based Optimally Binned Hypothesis Tests.](https://www.tandfonline.com/doi/abs/10.1080/09349847.2024.2316916) Research in Nondestructive Evaluation, Machine Learning in NDE (Volume 35, 2024)
+1. **Mukherjee, S.**, Hering, A., Melin, A., Ghanem, S. S., Cath, T., &amp; Villez, K. (2026). [Predicting Initial Trans-Membrane Pressure Across Cycles in an Ultrafiltration Process Using Random Forest](https://scholar.google.com/scholar?q=Predicting+Initial+Trans-Membrane+Pressure+Across+Cycles+in+an+Ultrafiltration+Process+Using+Random+Forest). *Water Science and Technology*.
+2. **Mukherjee, S.**, Udpa, L., &amp; Deng, Y. (2024). [Dynamic Defect Detection in Fast, Robust NDE Methods by Transfer Learning Based Optimally Binned Hypothesis Tests](https://www.tandfonline.com/doi/abs/10.1080/09349847.2024.2316916). *Research in Nondestructive Evaluation*.
+3. **Mukherjee, S.**, Hamilton, C., Huang, X., Udpa, L., &amp; Deng, Y. (2023). [Enhanced Defect Detection in NDE Using Registration Aided Heterogeneous Data Fusion](https://www.sciencedirect.com/science/article/pii/S0963869523001792). *NDT &amp; E International*.
+4. **Mukherjee, S.**, Zhang, R., Alzuhiri, M., Rao, V. V., Udpa, L., &amp; Deng, Y. (2022). [Inline Pipeline Inspection Using Hybrid Deep Learning Aided Endoscopic Laser Profiling](https://link.springer.com/article/10.1007/s10921-022-00890-1). *Journal of Nondestructive Evaluation*.
+5. **Mukherjee, S.**, Udpa, L., &amp; Deng, Y. (2022). [Robust Defect Detection Under Uncertainties Using Spatially Adaptive Capacitive Sensing](https://pubs.aip.org/aip/jap/article/131/21/214901/2837149/Robust-defect-detection-under-uncertainties). *Journal of Applied Physics*.
+6. **Mukherjee, S.**, Huang, X., Udpa, L., &amp; Deng, Y. (2021). [A Kriging-Based Magnetic Flux Leakage Method for Fast Defect Detection in Massive Pipelines](https://asmedigitalcollection.asme.org/nondestructive/article/5/1/011002/1109353/A-Kriging-Based-Magnetic-Flux-Leakage-Method-for). *Journal of Nondestructive Evaluation, Diagnostics and Prognostics of Engineering Systems*.
+7. Huang, X., **Mukherjee, S.**, &amp; Deng, Y. (2024). [Fast VGG: An Advanced Pre-Trained Deep Learning Framework for Multi-Layered Composite NDE](https://scholar.google.com/scholar?q=Fast+VGG+advanced+pre-trained+deep+learning+framework+Mukherjee). *Research in Nondestructive Evaluation*.
+8. Huang, X., **Mukherjee, S.**, &amp; Deng, Y. (2024). [Deep Learning-Assisted Structural Health Monitoring: Acoustic Emission Analysis and Domain Adaptation](https://scholar.google.com/scholar?q=Deep+learning-assisted+structural+health+monitoring+Mukherjee). *Engineering Research Express*.
+9. Aenagandula, S., **Mukherjee, S.**, Rao, N., &amp; Deng, Y. (2024). [Adaptive Segmentation-Based Evaluation of Material Properties of Dielectric Sheets Using Microwave NDE](https://www.tandfonline.com/doi/full/10.1080/10589759.2023.2239989). *Nondestructive Testing and Evaluation*.
+10. Lu, W., Zeng, M., Wang, L., Luo, H., **Mukherjee, S.**, Huang, X., &amp; Deng, Y. (2019). [Navigation Algorithm Based on the Boundary Line of Tillage Soil](https://www.mdpi.com/1424-8220/19/18/3918). *Sensors*.
 
-3. **S. Mukherjee.**, L. Udpa, and Y. Deng. [Enhanced defect detection in NDE using registration aided heterogeneous data fusion.](https://www.sciencedirect.com/science/article/pii/S0963869523001792) NDT & E International, 2023
+## Book chapter
 
-4. **Mukherjee, Subrata**, Renrui Zhang, Mohand Alzuhiri, Varun Venkat Rao, Lalita Udpa, and Yiming Deng.  [Inline Pipeline Inspection Using Hybrid Deep Learning Aided Endoscopic Laser Profiling](https://link.springer.com/article/10.1007/s10921-022-00890-1) Journal of Non-destructive Evaluation, Springer (2022)
+- **Mukherjee, S.**, &amp; Udpa, L. (2024). *Signal and Image Processing for Electromagnetic Testing*. American Society for Nondestructive Testing.
 
-5. **Mukherjee, Subrata**, Xuhui Huang, Lalita Udpa, and Yiming Deng. [A Kriging-Based Magnetic Flux Leakage Method for Fast Defect Detection in Massive Pipelines](https://asmedigitalcollection.asme.org/nondestructive/article/5/1/011002/1109353/A-Kriging-Based-Magnetic-Flux-Leakage-Method-for) Journal of Nondestructive Evaluation, Diagnostics and Prognostics of Engineering Systems 5, no. 1 (2022)
+## Peer-reviewed conference publications
 
-6. Lu, Wei, Mengjie Zeng, Ling Wang, Hui Luo, **Subrata Mukherjee**, Xuhui Huang, and Yiming Deng [Navigation algorithm based on the boundary line of tillage soil combined with guided filtering and improved anti-noise morphology](https://www.mdpi.com/1424-8220/19/18/3918) Sensors 19, no. 18 (2019): 3918.
+1. **Mukherjee, S.**, Villez, K., Warmack, B., Groth, P., Herron, D., Boyaci, A., &amp; Joseph, O. (2026). Rolling Root Mean Square Based Multimodal Anomaly Detection for Real-Time Monitoring of Smart Grid Substations. *IEEE International Conference on Prognostics and Health Management*.
+2. **Mukherjee, S.**, Villez, K., Melin, A., Ghanem, S., Cath, T., &amp; Hering, A. (2025). Predicting Initial Trans-Membrane Pressure for Optimized Operations in a UF Unit Using Random Forest. *International Conference on Instrumentation, Control, and Automation*.
+3. **Mukherjee, S.**, Groth, P., Herron, D., Warmack, B., &amp; Villez, K. (2025). Unsupervised Anomaly Clustering via Offset Alignment in Multivariate Grid Sensing Data. *IEEE International Conference on Prognostics and Health Management*.
+4. **Mukherjee, S.**, Villez, K., &amp; Melin, A. (2025). Data-Efficient Sparse Modeling Framework for Power Estimation in Water-Treatment Sensing Operations. *International Workshop on Electromagnetic Nondestructive Evaluation*.
+5. **Mukherjee, S.**, Coroller, T., Wang, C., Samala, R., Sahiner, B., Petrick, N., &amp; Cao, Q. (2024). Image Registration Based Automated Lesion Correspondence Pipeline for Longitudinal CT Data. *IEEE International Conference on Prognostics and Health Management*.
+6. **Mukherjee, S.**, Udpa, L., &amp; Deng, Y. (2023). [Enhanced Defect Detection in NDE Using Pixel-Level Data Fusion](https://ieeexplore.ieee.org/document/10114697). *Applied Computational Electromagnetics Society*.
+7. **Mukherjee, S.**, Udpa, L., &amp; Deng, Y. (2023). [Accurate Material Characterization of Wideband RF Signals via Registration-Based Curve Fitting](https://ieeexplore.ieee.org/document/10193978). *IEEE International Conference on Prognostics and Health Management*.
+8. **Mukherjee, S.**, Huang, X., Udpa, L., &amp; Deng, Y. (2020). [Defect Tracking via NDE-Based Transfer Learning](https://ieeexplore.ieee.org/abstract/document/9187034). *IEEE International Conference on Prognostics and Health Management*.
+9. **Mukherjee, S.**, Huang, X., Udpa, L., &amp; Deng, Y. (2020). [A Kriging-Based Fast and Efficient Method for Defect Detection in Massive Pipelines](https://asmedigitalcollection.asme.org/IMECE/proceedings/IMECE2020/84669/V014T14A010/1099563). *International Mechanical Engineering Congress and Exposition*.
+10. **Mukherjee, S.**, Huang, X., Udpa, L., &amp; Deng, Y. (2019). [NDE-Based Cost-Effective Detection of Obtrusive and Coincident Defects in Pipelines Under Uncertainties](https://ieeexplore.ieee.org/abstract/document/8756365). *IEEE International Conference on Prognostics and Health Management*.
 
-7. Shankar Aenagandula , **Subrata Mukherjee**, Neeraj Rao, and Yiming Deng [Adaptive segmentation-based evaluation of material properties of dielectric sheets using microwave NDE](https://www.tandfonline.com/doi/full/10.1080/10589759.2023.2239989) Nondestructive Testing and Evaluation,2023
+## Manuscripts, preprints, and submitted work
 
-8. X. Hunag, L. Peng, **S. Mukherjee.**, C. Hamilton, X. Shi, V. Srinivasan, E. Davis and Y. Deng. [Fast VGG: An Advanced Pre-Trained Deep Learning Framework for Multi-Layered Composite NDE via Multifrequency Near-Field Microwave Imaging](https://www.tandfonline.com/doi/abs/10.1080/09349847.2024.2319765) Research in Nondestructive Evaluation, Machine Learning in NDE (Volume 35, 2024)
+Status is shown explicitly so this page remains accurate and professionally transparent.
 
-**Book Chapter**
-
-1. Signal and Image Processing for Electromagnetic testing, Subrata Mukherjee, Lalita Udpa (ASNT forthcoming 2024).
-
-
-**Peer Reviewed Conference Papers**
-
-1. **Mukherjee, Subrata**, Thibaud Coroller, Craig Wang, Ravi k. Samala, Tingting Hu, Didem Gokcay Berkman Sahiner, Nicholas Petrick and Qian Cao. [Image Registration based Automated Lesion Correspondence and Tracking Pipeline for Longitudinal CT Data] *accpeted in IEEE PHM 2024*
-
-2. **Mukherjee, Subrata**, Xuhui Huang, Vivek T. Rathod, Lalita Udpa, and Yiming Deng. [Defect Tracking Via NDE Based Transfer Learning](https://ieeexplore.ieee.org/abstract/document/9187034)
-
-3. **Mukherjee, Subrata**, Xuhui Huang, Lalita Udpa, and Yiming Deng. [NDE Based Cost-Effective Detection of Obtrusive and Coincident Defects in Pipelines Under Uncertainties.](https://ieeexplore.ieee.org/abstract/document/8756365)
-
-4. **Mukherjee, Subrata**, Thibaud Coroller, Craig Wang, Ravi k. Samala, Tingting Hu, Didem Gokcay Berkman Sahiner, Nicholas Petrick and Qian Cao.  [Early Assessment of Survival in Metastatic Breast Cancer: Radiomic Analysis from Initial Post-Treatment CT Data] *submitted in RSNA 2024*
-
-5. **Subrata Mukherjee**, Deepak Kumar, Lalita Udpa, and Yiming Deng. [Accurate Material Characterization of Wideband RF Signals via Registration-based Curve Fitting Model using Microstrip Transmission Line.](https://ieeexplore.ieee.org/document/10193978)
-
-6. **Mukherjee, Subrata**, Lalita Udpa, and Yiming Deng. [Enhanced Defect Detection in NDE Using Pixel Level Data Fusion.](https://ieeexplore.ieee.org/document/10114697) 
-
-7. **Mukherjee, Subrata**, Xuhui Huang, Lalita Udpa, and Yiming Deng. [A Kriging Based Fast and Efficient Method for Defect Detection in Massive Pipelines Using Magnetic Flux Leakages](https://asmedigitalcollection.asme.org/IMECE/proceedings/IMECE2020/84669/V014T14A010/1099563)
-
-8. **Mukherjee, Subrata**, Xuhui Huang, Lalita Udpa, and Yiming Deng. [Dynamic tracking of defects in pipelines via NDE based transfer learning](https://iastatedigitalpress.com/qnde/article/id/8667/print/)
-
-9. Rathod, Vivek T., **Subrata Mukherjee**, and Yiming Deng. [Machine learning enabled damage classification in composite laminated beams using mode conversion quantification](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11380/113800B/Machine-learning-enabled-damage-classification-in-composite-laminated-beams-using/10.1117/12.2559677.full?SSO=1)
-
-10. Rathod, Vivek T., **Subrata Mukherjee**, Lalita Udpa, and Yiming Deng. [Extracting Mode Converted Guided Wave Response due to Delamination using Embedded Thin Film Sensors.](https://ieeexplore.ieee.org/abstract/document/9187041)
-
-11. Palanisamy, Rajendra Prasath, **Subrata Mukherjee**, Mahmood Haq, and Yiming Deng. [Rapid Material Characterization using Smart Skin with functional Data Analysis.](https://papers.phmsociety.org/index.php/phme/article/view/2884)
-
-12. Palanisamy, Rajendra Prasath, Portia Banerjee, **Subrata Mukherjee**, Mahmood Haq, and Yiming Deng. [Fatigue damage prognosis in adhesive bonded composite lap-joints using guided waves.](https://ieeexplore.ieee.org/abstract/document/9187031)
-
-13. Li, Zi, Xuhui Huang, Obaid Elshafiey, **Subrata Mukherjee**, and Yiming Deng. [FEM of Magnetic Flux Leakage Signal for Uncertainty Estimation in Crack Depth Classification using Bayesian Convolutional Neural Network and Deep Ensemble.](https://ieeexplore.ieee.org/abstract/document/9528403)
-
-
-
+- **Submitted:** Demonstration of an Online Digital Twin for Cost-Effective Operation of a Water Reuse Pilot System. *IWA Journal of Hydroinformatics*.
+- **Submitted:** A Structured L1 Penalization Framework for Stable Sparse Power Modeling in Water Reuse Systems. *Nondestructive Testing and Evaluation*.
+- **Preprint:** Statistical Modeling of Breast Cancer Radiomics Features and Hazard by Image-Registration-Aided Longitudinal Multi-Source CT Data. *arXiv preprint*.
+- **Submitted:** Accurate Evaluation of Observability and Redundancy in Water Production Systems. *ACS ES&amp;T Water*.
+- **Manuscript in preparation:** Nonparametric Cyclic Registration and Distance-Based Clustering of Electrical Event Waveforms.
+- **Manuscript in preparation:** Tariff-Responsive Flexible Operation of a Full-Scale Reverse Osmosis Facility: Constraint-Aware Optimization and Annualized Economic Value.

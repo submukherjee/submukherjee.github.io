@@ -1,52 +1,59 @@
 ---
 layout: page
-title: 
-use-site-title: false
+title: Subrata Mukherjee
+subtitle: Researcher in intelligent sensing, digital twins, and data-driven engineering systems
+share-img: https://submukherjee.github.io/img/og.png
 ---
-<center>
-  <figure>
-  <img src="img/my_pic.JPG"  width="190" height="260">
-</figure>
-</center>
-<br/>
-I am currently a Postdoctoral fellow in the [Division of Imaging, Diagnostics, and Software Reliability](https://www.fda.gov/about-fda/cdrh-offices/division-imaging-diagnostics-and-software-reliability) at US Food and Drug Administration. Before joining FDA, I graduated from Michigan State University with a PhD. degree in Electrical and Computer Engineering. I was advised by Professor Yiming Deng & Professor Lalita Udpa at Non Destructive Evaluation Laboratory, [NDEL](https://www.egr.msu.edu/ndel/). On the algorithmic side, I develop novel statistical learning based signal and image processing algorithms, Artificial Intelligence (AI)- Machine Learning (ML) algorithms for medical and NDE imaging. I am also interested in data fusion, volumetric registration, survival analysis, joint modelling and in developing different sub sampling and sparsifying algorithms. On the hardware side, I focus on design and development of different physics based sensors and systems for monitoring and evaluating structural integrity of parts and components. The indexing of all my published papers can be accessed from my <a href='https://submukherjee.github.io/Research/'><font face="verdana" color="teal">Research</font></a> page and [Google Scholar](https://scholar.google.com/citations?user=PDSHPr0AAAAJ&hl=en&oi=ao). You can find my [Resume](https://drive.google.com/file/d/1m8ziY8zjwzffIgmvwjeNoa7SHM95LKVH/view?usp=sharing) here. 
 
-----------
-<a name="Education">Education</a>
- * PhD in Electrical & Computer Engineering (2018-2023), [Michigan State University](https://msu.edu/): CGPA **3.83/4**. 
- * B.Tech in Electronics & Communication Engineering (2011-2015), [National Institute of Technology, Durgapur](http://www.nitdgp.ac.in/): CGPA **8.46/10**.
- 
-Below is a list of my working topics.
+<section class="profile-hero">
+  <img class="profile-photo" src="{{ site.baseurl }}/img/my_pic_illustrated.png" alt="Illustrated portrait of Subrata Mukherjee">
+  <div>
+    <p class="eyebrow">OAK RIDGE NATIONAL LABORATORY</p>
+    <h1>Subrata Mukherjee</h1>
+    <p class="hero-role">R&amp;D Associate Staff | Advanced Monitoring, Diagnosis, and Control</p>
+    <p>I develop sensing, statistical-learning, and digital-twin methods that help complex engineering systems operate more efficiently, reliably, and intelligently.</p>
+    <p class="hero-links"><a href="https://www.ornl.gov/staff/subrata-mukherjee/">ORNL Profile</a><a href="https://scholar.google.com/citations?user=PDSHPr0AAAAJ&amp;hl=en">Google Scholar</a><a href="https://www.linkedin.com/in/subrata-mukherjee-440b1679/">LinkedIn</a><a href="mailto:mukherjees2@ornl.gov">Email</a></p>
+  </div>
+</section>
 
-**Methodological & Algorithmic Development**
-* Medical Imaging Analysis
-  * Volumetric Image registration and correspondence in longitudinal medical data
-  * AI based survival modelling
-  * Deep Learning assisted lesion and organ segmentations 
-* Robust Data Analysis for NDE
-  * Spatially Adaptive Denoising based model
-  * kriging based sub-sampling schemes for fast detection
-  * Transfer learning aided Mixture Regression & Wavelet based denoising
-* AI enabled NDE systems
-  * Deep Learning in Laser Profilometry
-  * Material Characterization in NDE using ML and registration
-  * Different Damage Classifications
-* Miscellaneous
-  * Data fusion from different sensing technqiues
-  * Compressed sensing & Time Reversal framework for limited data in Thermoacoustic tomography
+## Current focus
 
-**Hardware setup & Sensor Development**
-* Magnetic flux leakage (MFL) sensor
-* Laser Profilometry
-* Capacitive & Eddy Current sensor
-* Finite Element Modelling
+My work combines data-driven modeling, sensing, controls, and optimization for applications in water systems, advanced monitoring, non-destructive evaluation, and energy infrastructure. At ORNL, I lead digital-twin research for water purification and contribute to advanced monitoring, diagnosis, and control research.
 
-----------
-<a name="Research Interest">Research Interests</a>
+<div class="highlight-grid">
+  <div class="highlight-card"><span>01</span><h3>Digital twins for water systems</h3><p>Real-time, data-driven methods for adaptive operations, energy-aware control, and resilient water infrastructure.</p></div>
+  <div class="highlight-card"><span>02</span><h3>Intelligent sensing and diagnostics</h3><p>Signal processing, multimodal sensing, fault detection, and non-destructive evaluation.</p></div>
+  <div class="highlight-card"><span>03</span><h3>Machine learning for engineering</h3><p>Statistical learning, sparse modeling, predictive analytics, and physics-informed data methods.</p></div>
+</div>
 
-Algorithm Development, Non-destructive Evaluation, Medical Imaging, Data Analysis, Statistical Inference, Signal and Image processing, Artificial Intelligence, Machine Learning, Computer Vision
+## Featured work {#featured-work}
 
-**Contact:**
-10903 New Hampshire Ave, Silver Spring, MD 20993.
-Email: subrata.mukherjee@fda.hhs.gov, mukher52@msu.edu
+### Digital twin innovation for water purification
 
+I lead ORNL's digital-twin research for water purification. The work connects a virtual model with a physical pilot plant to adapt operating settings to real-time conditions and energy prices. ORNL featured the project in its May 2026 news story, [Digital twin innovation cuts energy costs in water purification](https://www.ornl.gov/news/digital-twin-innovation-cuts-energy-costs-water-purification/).
+
+### Research areas
+
+- Signal and image processing; sensing and control systems
+- Digital twins, process monitoring, and model predictive control
+- Machine learning, artificial intelligence, statistical inference, and data-driven modeling
+- Non-destructive evaluation, sensor fabrication, and industrial diagnostics
+- Smart manufacturing, electrical-grid monitoring, water treatment, and desalination
+- Radiation transport, neutron imaging, and computational modeling
+
+## Professional profile
+
+I earned a Ph.D. in Electrical and Computer Engineering from Michigan State University, where my dissertation focused on machine-learning-based automated non-destructive evaluation methods for defect diagnostics. My research has also included regulatory science at the U.S. Food and Drug Administration, advanced algorithm development at Analog Garage, and technology solutions work at Ericsson.
+
+For a complete record, see [Professional Experience]({{ site.baseurl }}/Experience/), [Research and Publications]({{ site.baseurl }}/Research/), and [Professional Leadership and Service]({{ site.baseurl }}/Leadership/).
+
+## Selected recognition and leadership
+
+- Vice Chair, NAWI NextGen Program
+- Project Lead, ORNL digital-twin research for water purification
+- Chair, AI and Machine Learning Applications session, International Workshop on Electromagnetic Nondestructive Evaluation, 2025
+- Engineering Distinguished Scholar Award, Michigan State University, 2018
+
+## Contact {#contact}
+
+For research collaborations or professional inquiries, contact me at [mukherjees2@ornl.gov](mailto:mukherjees2@ornl.gov).

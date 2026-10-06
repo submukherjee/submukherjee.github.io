@@ -9,7 +9,7 @@ layout: null
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
-  color: #404040;
+  color: #1d2939;
   position: relative;
   background: #FFF;
   {% if site.page-col %}
@@ -20,6 +20,24 @@ body {
   background-attachment: fixed;
   {% endif %}
 }
+
+.profile-hero { display: grid; grid-template-columns: 190px 1fr; gap: 34px; align-items: center; padding: 42px 0 30px; border-bottom: 1px solid #d9e3e7; }
+.profile-photo { width: 180px; height: 180px; object-fit: cover; object-position: center top; border-radius: 50%; border: 6px solid #f1f7f7; box-shadow: 0 12px 26px rgba(6, 46, 62, .16); }
+.profile-hero h1 { font-size: 44px; letter-spacing: -.03em; margin: 4px 0 7px; color: #102a43; }
+.eyebrow { font: 700 12px 'Open Sans', Arial, sans-serif; letter-spacing: .16em; color: #147d88; margin: 0; }
+.hero-role { color: #38556a; font: 600 16px 'Open Sans', Arial, sans-serif; margin: 0 0 14px; }
+.profile-hero p { margin: 12px 0; }
+.hero-links { display: flex; flex-wrap: wrap; gap: 12px; }
+.hero-links a { font: 700 13px 'Open Sans', Arial, sans-serif; background: #e8f5f4; color: #086673; padding: 7px 11px; border-radius: 3px; text-decoration: none; }
+.hero-links a:hover { background: #086673; color: #fff; }
+.highlight-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin: 25px 0 42px; }
+.highlight-card { border: 1px solid #d8e4e7; border-top: 4px solid #0f7c87; padding: 20px; background: #fbfdfd; min-height: 205px; }
+.highlight-card span { font: 700 12px 'Open Sans', Arial, sans-serif; color: #16808a; letter-spacing: .12em; }
+.highlight-card h3 { margin: 10px 0 8px; font-size: 19px; color: #102a43; }
+.highlight-card p { font-size: 15px; line-height: 1.55; margin: 0; }
+.container[role="main"] h2 { border-top: 1px solid #d9e3e7; padding-top: 26px; margin-top: 42px; color: #102a43; }
+.container[role="main"] { padding-bottom: 28px; }
+@media only screen and (max-width: 767px) { .profile-hero { grid-template-columns: 1fr; gap: 20px; padding-top: 22px; } .profile-photo { width: 140px; height: 140px; } .profile-hero h1 { font-size: 34px; } .highlight-grid { grid-template-columns: 1fr; } }
 p {
   line-height: 1.5;
   margin: 30px 0;

@@ -1,20 +1,46 @@
 ---
 layout: page
-title: 
-use-site-title: false
+title: Professional Experience
+subtitle: Research, engineering, and technology roles
+share-img: https://submukherjee.github.io/img/og.png
 ---
-[**US Food and Drug Administration**](https://www.fda.gov/about-fda/cdrh-offices/division-imaging-diagnostics-and-software-reliability) (August 2023- Present)
 
-At FDA, I have developed an image registration based automated lesion correspondence and matching (RAMAC) algorithm and have designed the algorithm into a regulatory science tool (RST). This algorithm is designed to dynamically track both target and non-target entities, addressing the variability observed across different timepoints and radiologists in longitudinal data analysis. I am performing joint modelling of the longitudinal and time-to-event data for Metastatic breast cancer (mBC) progression risk prediction and performing lesion and organ segmentation by various deep learning frameworks on our dataset. I actively participate in reviewing consults related to AI/ML, medical imaging devices and diagnostics and attend regulatory discussion meetings at FDA.
+## Oak Ridge National Laboratory
 
-[**Analog Garage**](https://www.analog.com/en/about-adi/incubators/analog-garage.html) (May-September 2022)
+**R&amp;D Associate Staff, Sensors and Electronics Group**
+*November 2025 - Present | Oak Ridge, Tennessee*
 
-During my summer internship at Analog Garage, Boston I worked on the Advanced Battery Monitoring (ABM) project. I was responsible for developing novel transfer learning based statistical algorithms for EV battery state of health (SOH) and State of Power (SOP) estimation. I also developed synthetic battery aging models in Ansys following protocols like that of real experiments to produce simulation data which can serve as digital twinning with experimental data. 
+Researcher in advanced monitoring, diagnosis, and control. Leads ORNL digital-twin research for water purification, developing data-driven methods to improve energy-aware operations and decision-making for water utilities.
 
-[Michigan State University](https://msu.edu/) (2018-2023 (July))
+**Postdoctoral Research Associate, Sensors and Electronics Group**
+*July 2024 - October 2025 | Oak Ridge, Tennessee*
 
-During my PhD, I worked as Research Associate on several projects being funded by [EPRI](https://www.epri.com/), [GTI](https://www.gti.energy/), various **CAAP** programs.
+Conducted research in intelligent sensing, digital twins, process monitoring, and machine-learning-enabled diagnostics for complex engineering systems.
 
-[**Ericsson**](https://www.ericsson.com/en) (2015-2018 (June))
+## U.S. Food and Drug Administration
 
-I was a part of the **_Work Force Management (WFM)_** team, which advices large service organizations with the optimal ways of scheduling and managing their field service work force. For general operations, we usually used the Click Service Optimization Suite. We were also involved in the development of novel routines for mobile customization using HTML5, C# and JQuery that enable dispatchers and technicians to communicate feedbacks in real time. My roles included developing and executing optimal algorithms and policies in order to assist clients in efficiently handling scheduling and communication assignments to their field force.   
+**Postdoctoral Fellow, Division of Imaging, Diagnostics and Software Reliability**
+*August 2023 - July 2024 | Silver Spring, Maryland*
+
+Developed image-registration and automated lesion-correspondence methods for longitudinal medical imaging; contributed to regulatory-science tools and research on AI/ML, imaging devices, and diagnostic technologies.
+
+## Michigan State University
+
+**Research Associate, Electrical and Computer Engineering**
+*August 2018 - July 2023 | East Lansing, Michigan*
+
+Conducted doctoral research at the Non-Destructive Evaluation Laboratory on machine-learning-based NDE, signal and image processing, sensing, data fusion, and defect diagnostics.
+
+## Analog Garage
+
+**Advanced Algorithm Researcher, Internship**
+*May 2022 - September 2022 | Boston, Massachusetts*
+
+Developed transfer-learning and statistical algorithms for electric-vehicle battery state-of-health and state-of-power estimation, including simulation models for digital-twin applications.
+
+## Ericsson
+
+**Solution Integrator, Workforce Management**
+*September 2015 - May 2018*
+
+Developed and implemented workforce-management solutions, including scheduling and real-time field-service communication tools using HTML5, C#, and jQuery.
