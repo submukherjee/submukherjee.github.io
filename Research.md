@@ -51,9 +51,9 @@ All published items below link to a publisher page where available. Use my [Goog
 
 Status is shown explicitly so this page remains accurate and professionally transparent.
 
-- **Submitted:** Demonstration of an Online Digital Twin for Cost-Effective Operation of a Water Reuse Pilot System. *IWA Journal of Hydroinformatics*.
-- **Submitted:** A Structured L1 Penalization Framework for Stable Sparse Power Modeling in Water Reuse Systems. *Nondestructive Testing and Evaluation*.
-- **Preprint:** Statistical Modeling of Breast Cancer Radiomics Features and Hazard by Image-Registration-Aided Longitudinal Multi-Source CT Data. *arXiv preprint*.
+- **Submitted:** [Demonstration of an Online Digital Twin for Cost-Effective Operation of a Water Reuse Pilot System]({{ site.baseurl }}/pdfs/Mukherjee_et_al_digital_twin.pdf). *IWA Journal of Hydroinformatics*.
+- **Submitted:** [A Structured L1 Penalization Framework for Stable Sparse Power Modeling in Water Reuse Systems]({{ site.baseurl }}/pdfs/lasso_ndte.pdf). *Nondestructive Testing and Evaluation*.
+- **Preprint:** [Statistical Modeling of Breast Cancer Radiomics Features and Hazard by Image-Registration-Aided Longitudinal Multi-Source CT Data](https://arxiv.org/abs/2603.26888). *arXiv preprint*.
 - **Submitted:** Accurate Evaluation of Observability and Redundancy in Water Production Systems. *ACS ES&amp;T Water*.
-- **Manuscript in preparation:** Nonparametric Cyclic Registration and Distance-Based Clustering of Electrical Event Waveforms.
+- **Manuscript in preparation:** [Nonparametric Cyclic Registration and Distance-Based Clustering of Electrical Event Waveforms]({{ site.baseurl }}/pdfs/registered_functional.pdf).
 - **Manuscript in preparation:** Tariff-Responsive Flexible Operation of a Full-Scale Reverse Osmosis Facility: Constraint-Aware Optimization and Annualized Economic Value.
